@@ -1,6 +1,7 @@
 class Language
 
   def initialize(name, creator)
+    #instance variables
     @name = name
     @creator = creator
   end
